@@ -1,4 +1,4 @@
-# jenkins-ci-pipeline-exercise
+![image](https://github.com/user-attachments/assets/53624c1e-212f-4675-a0b1-51b2f9de4b54)# jenkins-ci-pipeline-exercise
 This exercise will teach you how to use Jenkins to orchestrate a React application. The application uses React and Node.js to display a web page with the content "Welcome to React" and includes tests to verify the rendering process of the application.
 
 ## Create jenkins service
@@ -83,7 +83,8 @@ docker run \
 ### 1. Open jenkins
 Open browser and run http://localhost:8080. and you will see the jenkins UI.
 
-![image](assets/initial-page.png)
+![image](https://github.com/user-attachments/assets/a9afd844-aac4-41b1-ba9d-d4db0b97530a)
+
 
 we need to input the password. we can see the password by run:
 ```sh
