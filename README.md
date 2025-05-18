@@ -91,13 +91,11 @@ we need to input the password. we can see the password by run:
 docker logs jenkins-blueocean
 ```
 
-or open via docker desktop
-
-![image](assets/jenkins-password.png)
 
 then choose **install suggested plugins** and wait until the installation finished.
 
-![image](assets/create-user.png)
+![image](https://github.com/user-attachments/assets/72c95667-03d3-4acd-829e-2351c03dfaf5)
+
 
 create admin user and continue.
 
