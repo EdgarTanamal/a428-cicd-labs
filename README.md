@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/53624c1e-212f-4675-a0b1-51b2f9de4b54)# jenkins-ci-pipeline-exercise
+# jenkins-ci-pipeline-exercise
 This exercise will teach you how to use Jenkins to orchestrate a React application. The application uses React and Node.js to display a web page with the content "Welcome to React" and includes tests to verify the rendering process of the application.
 
 ## Create jenkins service
